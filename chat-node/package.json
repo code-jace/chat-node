@@ -1,0 +1,9 @@
+{
+  "name": "chat-node",
+  "version": "0.0.0",
+  "description": "chat-node",
+  "main": "app.js",
+  "author": {
+    "name": "Oisin"
+  }
+}
