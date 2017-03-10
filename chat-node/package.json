@@ -1,9 +1,12 @@
 {
   "name": "chat-node",
-  "version": "0.0.0",
-  "description": "chat-node",
-  "main": "app.js",
+  "version": "0.0.1",
+  "description": "socket.io test app",
   "author": {
     "name": "Oisin"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
   }
 }
